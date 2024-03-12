@@ -13,4 +13,4 @@ print(g1 +/- g2)
 with this you can put it intot eh code to and hit the run to get what you what
 
 
-Bt Ruben.C
+By Ruben.C
