@@ -23,7 +23,9 @@ class Game(Video):
         self.GameName=n
         self.cost=c
 g1=Game("good",20)
+g3=Video()
 g2=Game("bad",30)
 print(g1)
 print(g1+g2)
 print(g1-g2)
+print(g3)
